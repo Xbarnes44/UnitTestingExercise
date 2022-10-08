@@ -77,7 +77,7 @@ namespace UnitTestingExercise.Tests
 
             //Act
 
-            var actual = calculator.Divide(num1 , num2);    
+            var actual = calculator.Divide(num1 , num2);
 
             //Assert
 
